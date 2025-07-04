@@ -85,7 +85,7 @@ def menu():
             print("Programa finalizado.")
             print("Nombre: Dario Wladimir Donoso Ferrada (D_Gamn)")
             print("Rut: 20.424.639-4")
-            print("GitHub: https://github.com/DarioWDonoso")
+            print("GitHub: https://github.com/Dario-Duoc/Examen-Transversal.git")
             break
         else:
             print("Debe seleccionar una opción válida.")
